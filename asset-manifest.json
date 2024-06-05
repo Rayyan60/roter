@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/roter/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/roter/static/js/main.d348eb89.chunk.js",
+    "main.js.map": "/roter/static/js/main.d348eb89.chunk.js.map",
+    "runtime-main.js": "/roter/static/js/runtime-main.5a1d338c.js",
+    "runtime-main.js.map": "/roter/static/js/runtime-main.5a1d338c.js.map",
+    "static/js/2.3ad00c15.chunk.js": "/roter/static/js/2.3ad00c15.chunk.js",
+    "static/js/2.3ad00c15.chunk.js.map": "/roter/static/js/2.3ad00c15.chunk.js.map",
+    "static/js/3.a5adbd85.chunk.js": "/roter/static/js/3.a5adbd85.chunk.js",
+    "static/js/3.a5adbd85.chunk.js.map": "/roter/static/js/3.a5adbd85.chunk.js.map",
+    "index.html": "/roter/index.html",
+    "precache-manifest.bddf11784ee86a65fdcfe720ee0174c2.js": "/roter/precache-manifest.bddf11784ee86a65fdcfe720ee0174c2.js",
+    "service-worker.js": "/roter/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/roter/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.3ad00c15.chunk.js.LICENSE.txt": "/roter/static/js/2.3ad00c15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a1d338c.js",
+    "static/js/2.3ad00c15.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.d348eb89.chunk.js"
+  ]
+}
